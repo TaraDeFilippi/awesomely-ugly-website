@@ -1,0 +1,33 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+ header{
+     font-size: 75px;
+     font-family: Helvetica, Arial, sans-serif;
+     text-align: center;
+     color: red;
+ }
+ h1{
+     font-size: 30px;
+     color: darkblue;
+ }
+ p{
+     font-size: 20px;
+     color: blue;
+ }
+ div{
+     color: green;
+     font-size: 30px;
+ }
+
+ul{
+    font-size: 20px;
+    color: blue;
+}
+ol{
+    color: darkgreen;
+    font-size: 20px;
+}
