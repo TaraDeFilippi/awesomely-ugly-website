@@ -31,3 +31,10 @@ ol{
     color: darkgreen;
     font-size: 20px;
 }
+.marquee {
+    width: 100%;
+    padding: 10px 0;
+    background-color: lightblue;
+    color: black;
+    font-size: 35px;
+}
